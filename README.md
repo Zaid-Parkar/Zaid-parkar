@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Zaid Parkar, a second-year engineering undergrad from Mumbai. I've interned as a frontend web developer at Workset Startup and participated in hackathons like Smart India and Geeks for Geeks. At GDSC, I'm a Video Editing Lead, Web Development Facilitator, and Open Source Manager. I've also participated in tech events and worked with HTML, CSS, JS, PHP, C, and C++. I created a project for DYPHub that solved a real-life problem at our university. Currently learning backend web dev, data structures, and algorithms. Always eager to learn and contribute to the tech community.
+I'm Zaid Parkar, a third-year engineering undergrad from Mumbai. I've interned as a frontend web developer at Workset Startup and participated in hackathons like Smart India and Geeks for Geeks. At GDSC, I'm a Video Editing Lead, Web Development Facilitator, and Open Source Manager. I've also participated in tech events and worked with HTML, CSS, JS, PHP, C, and C++. I created a project for DYPHub that solved a real-life problem at our university. Currently learning backend web dev, data structures, and algorithms. Always eager to learn and contribute to the tech community.
 
 
 ## 🌐 Socials:
